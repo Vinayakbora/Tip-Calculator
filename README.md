@@ -1,2 +1,2 @@
 # Tip-Calculator
-This app calculates the tip amount from the input.
+This app calculates the different tip amounts from the input.
